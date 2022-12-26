@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/succubusbed_n/succubus_bed02out"
+	"$bumpmap" "models/succubusbed_n/succubus_bed02_nout"
+	"$translucent" 1
+}

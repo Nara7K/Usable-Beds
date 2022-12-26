@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\props\hhp227_n\bed02/wood"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+}

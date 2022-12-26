@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/succubusbed_n/succubus_bed01out"
+	"$bumpmap" "models/succubusbed_n/succubus_bed01_nout"
+	
+	"$halflambert"		1
+
+	"$phong"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	10
+	"$phongboost" 		3
+    $phongfresnelranges               "[0.1 0.1 0.1]"
+	
+	"$surface" "leather"
+	"$normalmapalphaphongexponenttexture" "1"
+}

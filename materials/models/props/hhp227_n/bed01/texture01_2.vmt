@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\props\hhp227_n\bed01/texture01_2"
+	"$halflambert" 1
+	"$model" "1"
+}
