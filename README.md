@@ -8,3 +8,5 @@ These are essentially typical prisoner pod vehicle entities that are positioned 
 Issues:
 - Currently I don't know how to change the view position of the player on the bed.
 - I don't know how to apply the same technique on 2-person beds.
+
+Credits of the original models are in the workshop link! I used Blender to add and edit some of the beds.
